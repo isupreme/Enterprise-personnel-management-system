@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC 
+	"-//mybatis.org//DTD Mapper 3.0//EN" 
+	"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.briup.dao.TrainTypeMapper">
+	
+	<!-- List<Staff> findAllStaff(); -->
+	<select id="queryTrainType" resultType="TrainType" parameterType="String">
+		select TYPE_NAME type_name,TYPE_CODE type_code,TYPE_INFO type_info
+		from TRAIN_TYPE
+		<if test="name!=null and name!=''">
+			where TYPE_NAME like "%"#{name}"%"
+		</if>
+	</select>
+
+    <select id="getTrainTypeById" parameterType="int" resultType="TrainType">
+        select * from train_type where type_code=#{trainTypeId}
+    </select>
+
+    <insert id="insertTrainType" parameterType="TrainType">
+        insert into train_type (type_code, type_name, type_info) values (#{type_code},#{type_name},#{type_info})
+    </insert>
+
+    <update id="updateTrainType" parameterType="TrainType">
+        update train_type set type_name=#{type_name}, type_info=#{type_info} where type_code=#{type_code}
+    </update>
+
+    <delete id="deleteTrainType" parameterType="int">
+        delete from train_type where type_code=#{id}
+    </delete>
+
+
+</mapper>

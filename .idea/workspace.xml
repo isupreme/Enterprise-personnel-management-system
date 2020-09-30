@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SSM-master:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b574dcd2-87e1-4b08-8e6c-9d050042e65d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost [2]" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="enterprise: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="enterprise: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="staff_agreement: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>delete-ok</find>
+      <find>deleteModal</find>
+      <find>agreementContent</find>
+      <find>LikeSearch</find>
+      <find>modal fade</find>
+      <find>编辑</find>
+      <find>edit</find>
+      <find>editModal</find>
+      <find>myEdit</find>
+      <find>账号</find>
+      <find>编辑员工信息</find>
+      <find>研究</find>
+      <find>degree</find>
+      <find>td</find>
+      <find>tds</find>
+      <find>department</find>
+      <find>ajaxfun</find>
+      <find>ajaxfun2</find>
+    </findStrings>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="8" />
+    <option name="y" value="8" />
+    <option name="width" value="1080" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectId" id="1hSO6jGWvJtsAhGxJT2MqBcbby0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15390626" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="plugins.junitgenerator.project" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IntelliJ IDEA 2019.1\IdeaProjects\SSM-master\WebContent\WEB-INF\jsp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IntelliJ IDEA 2019.1\IdeaProjects\SSM-master\sql" />
+      <recent name="E:\IntelliJ IDEA 2019.1\IdeaProjects\SSM-master\src\com\briup\service\impl" />
+      <recent name="E:\IntelliJ IDEA 2019.1\IdeaProjects\SSM-master\src\com\briup\service" />
+      <recent name="E:\IntelliJ IDEA 2019.1\IdeaProjects\SSM-master\WebContent\WEB-INF\jsp" />
+      <recent name="E:\IntelliJ IDEA 2019.1\IdeaProjects\SSM-master\WebContent\js" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.16" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.16" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="SSM-master:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_SSM-master" />
+        <option name="DEPLOY_TOMCAT_APPS" value="true" />
+        <option name="HTTP_PORT" value="8081" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="57125" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="SSM-master:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_SSM-master" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="57125" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b574dcd2-87e1-4b08-8e6c-9d050042e65d" name="Default Changelist" comment="" />
+      <created>1600000853788</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600000853788</updated>
+      <workItem from="1600000855212" duration="2139000" />
+      <workItem from="1600007655919" duration="1279000" />
+      <workItem from="1600009542937" duration="212000" />
+      <workItem from="1600042978961" duration="1235000" />
+      <workItem from="1600044919637" duration="3380000" />
+      <workItem from="1600048891505" duration="209000" />
+      <workItem from="1600049663518" duration="2126000" />
+      <workItem from="1600063377596" duration="25000" />
+      <workItem from="1600065678971" duration="139000" />
+      <workItem from="1600065981482" duration="676000" />
+      <workItem from="1600071231934" duration="425000" />
+      <workItem from="1600078311421" duration="198000" />
+      <workItem from="1600078585757" duration="903000" />
+      <workItem from="1600085590819" duration="1527000" />
+      <workItem from="1600087965773" duration="3379000" />
+      <workItem from="1600091779168" duration="98000" />
+      <workItem from="1600415852958" duration="2395000" />
+      <workItem from="1600429788163" duration="21494000" />
+      <workItem from="1600483165895" duration="12960000" />
+      <workItem from="1600562312008" duration="3094000" />
+      <workItem from="1600568804579" duration="2088000" />
+      <workItem from="1600571578755" duration="763000" />
+      <workItem from="1600573541635" duration="300000" />
+      <workItem from="1600581623855" duration="18270000" />
+      <workItem from="1600650052217" duration="5168000" />
+      <workItem from="1600740420377" duration="1501000" />
+      <workItem from="1600745694977" duration="838000" />
+      <workItem from="1600758858516" duration="142000" />
+      <workItem from="1600821745773" duration="313000" />
+      <workItem from="1600852657169" duration="633000" />
+      <workItem from="1600855100145" duration="2784000" />
+      <workItem from="1600857906508" duration="2154000" />
+      <workItem from="1600937163114" duration="2553000" />
+      <workItem from="1601083644329" duration="17084000" />
+      <workItem from="1601260483604" duration="3405000" />
+      <workItem from="1601284902507" duration="1879000" />
+      <workItem from="1601295775956" duration="4218000" />
+      <workItem from="1601349694624" duration="1933000" />
+      <workItem from="1601427627005" duration="1300000" />
+      <workItem from="1601431835191" duration="232000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="494" y="193" key="#Project_Structure" timestamp="1600079327252">
+      <screen x="0" y="23" width="1680" height="970" />
+    </state>
+    <state x="494" y="193" key="#Project_Structure/0.23.1680.970@0.23.1680.970" timestamp="1600079327252" />
+    <state x="358" y="189" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601431908000">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state x="358" y="189" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.963@0.23.1680.963" timestamp="1601431908000" />
+    <state x="358" y="190" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.970@0.23.1680.970" timestamp="1600079335921" />
+    <state width="1024" height="210" key="GridCell.Tab.0.bottom" timestamp="1600860061809">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600860061809" />
+    <state width="930" height="198" key="GridCell.Tab.0.bottom/0.23.1680.970@0.23.1680.970" timestamp="1600091628186" />
+    <state width="1024" height="210" key="GridCell.Tab.0.center" timestamp="1600860061809">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600860061809" />
+    <state width="930" height="198" key="GridCell.Tab.0.center/0.23.1680.970@0.23.1680.970" timestamp="1600091628185" />
+    <state width="1024" height="210" key="GridCell.Tab.0.left" timestamp="1600860061809">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600860061809" />
+    <state width="930" height="198" key="GridCell.Tab.0.left/0.23.1680.970@0.23.1680.970" timestamp="1600091628185" />
+    <state width="1024" height="210" key="GridCell.Tab.0.right" timestamp="1600860061809">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600860061809" />
+    <state width="930" height="198" key="GridCell.Tab.0.right/0.23.1680.970@0.23.1680.970" timestamp="1600091628186" />
+    <state width="1024" height="210" key="GridCell.Tab.1.bottom" timestamp="1600860061810">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600860061810" />
+    <state width="930" height="198" key="GridCell.Tab.1.bottom/0.23.1680.970@0.23.1680.970" timestamp="1600091628188" />
+    <state width="1024" height="210" key="GridCell.Tab.1.center" timestamp="1600860061809">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1600860061809" />
+    <state width="930" height="198" key="GridCell.Tab.1.center/0.23.1680.970@0.23.1680.970" timestamp="1600091628187" />
+    <state width="1024" height="210" key="GridCell.Tab.1.left" timestamp="1600860061809">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1600860061809" />
+    <state width="930" height="198" key="GridCell.Tab.1.left/0.23.1680.970@0.23.1680.970" timestamp="1600091628186" />
+    <state width="1024" height="210" key="GridCell.Tab.1.right" timestamp="1600860061810">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1600860061810" />
+    <state width="930" height="198" key="GridCell.Tab.1.right/0.23.1680.970@0.23.1680.970" timestamp="1600091628187" />
+    <state width="1024" height="210" key="GridCell.Tab.2.bottom" timestamp="1600860061810">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600860061810" />
+    <state width="930" height="198" key="GridCell.Tab.2.bottom/0.23.1680.970@0.23.1680.970" timestamp="1600091628189" />
+    <state width="1024" height="210" key="GridCell.Tab.2.center" timestamp="1600860061810">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1600860061810" />
+    <state width="930" height="198" key="GridCell.Tab.2.center/0.23.1680.970@0.23.1680.970" timestamp="1600091628189" />
+    <state width="1024" height="210" key="GridCell.Tab.2.left" timestamp="1600860061810">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1600860061810" />
+    <state width="930" height="198" key="GridCell.Tab.2.left/0.23.1680.970@0.23.1680.970" timestamp="1600091628188" />
+    <state width="1024" height="210" key="GridCell.Tab.2.right" timestamp="1600860061810">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1600860061810" />
+    <state width="930" height="198" key="GridCell.Tab.2.right/0.23.1680.970@0.23.1680.970" timestamp="1600091628189" />
+    <state x="382" y="109" key="SettingsEditor" timestamp="1600001503444">
+      <screen x="0" y="23" width="1680" height="970" />
+    </state>
+    <state x="382" y="109" key="SettingsEditor/0.23.1680.970@0.23.1680.970" timestamp="1600001503444" />
+    <state x="571" y="358" key="com.intellij.ide.util.TipDialog" timestamp="1601431837515">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state x="571" y="358" key="com.intellij.ide.util.TipDialog/0.23.1680.963@0.23.1680.963" timestamp="1601431837515" />
+    <state x="571" y="360" key="com.intellij.ide.util.TipDialog/0.23.1680.970@0.23.1680.970" timestamp="1600091779136" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>SSM-master:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SSM-master</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC 
+	"-//mybatis.org//DTD Mapper 3.0//EN" 
+	"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.briup.dao.DepartmentMapper">
+	<!--   List<Department> findAllDep(); -->
+	<select id="findAllDep" resultType="department">
+		select dept_id, dept_name
+		from DEPARTMENT
+	</select>
+	
+	<select id="findPosition" resultType="position">
+		select pos_id, pos_name
+		from position p,department d
+		where p.dept_id=d.dept_id and d.dept_id=#{deptId}
+	</select>
+
+</mapper>
